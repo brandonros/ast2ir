@@ -1,3 +1,4 @@
+// do {} while(1)
 describe('DoWhileStatement', () => {
   const example = {
     "type": "DoWhileStatement",

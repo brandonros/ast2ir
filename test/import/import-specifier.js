@@ -1,3 +1,4 @@
+// import * as foo from 'foo'
 describe('ImportSpecifier', () => {
   const example = {
     "type": "ImportSpecifier",

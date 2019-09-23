@@ -1,3 +1,4 @@
+// 1
 describe('Literal', () => {
   const example = {
     "type": "Literal",

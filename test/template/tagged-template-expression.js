@@ -1,3 +1,4 @@
+// foo`bar`
 describe('TaggedTemplateExpression', () => {
   const example = {
     "type": "TaggedTemplateExpression",

@@ -1,3 +1,4 @@
+// a = b
 describe('AssignmentExpression', () => {
   const example = {
     "type": "AssignmentExpression",

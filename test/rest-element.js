@@ -1,3 +1,4 @@
+/// const [a, ...b] = c
 describe('RestElement', () => {
   const example = {
     "type": "RestElement",

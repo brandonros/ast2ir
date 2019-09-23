@@ -1,3 +1,4 @@
+// for (;;) { continue }
 descrine('ContinueStatement', () => {
   const example = {
     "type": "ContinueStatement",

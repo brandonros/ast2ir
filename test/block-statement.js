@@ -1,3 +1,4 @@
+// { foo }
 describe('BlockStatement', () => {
   const example = {
     "type": "BlockStatement",

@@ -1,3 +1,4 @@
+// class Animal {}
 describe('ClassBody', () => {
   const example = {
     "type": "ClassBody",

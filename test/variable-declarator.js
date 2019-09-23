@@ -1,3 +1,4 @@
+// const foo = 1
 describe('VariableDeclarator', () => {
   const example = {
     "type": "VariableDeclarator",

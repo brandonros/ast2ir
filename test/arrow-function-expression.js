@@ -1,3 +1,4 @@
+// const foo = () => {}
 describe('ArrowFunctionExpression', () => {
   const example = {
     "type": "ArrowFunctionExpression",

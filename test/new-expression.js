@@ -1,3 +1,4 @@
+// new A
 describe('NewExpression', () => {
   const example = {
     "type": "NewExpression",

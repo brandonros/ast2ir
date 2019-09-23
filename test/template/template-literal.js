@@ -1,3 +1,4 @@
+// `foo`
 describe('TemplateLiteral', () => {
   const example = {
     "type": "TemplateLiteral",

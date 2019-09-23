@@ -1,3 +1,4 @@
+// [1,2]
 describe('ArrayExpression', () => {
   const example = {
     "type": "ArrayExpression",

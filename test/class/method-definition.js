@@ -1,3 +1,5 @@
+// class Animal { foo() {} }
+
 describe('MethodDefinition', () => {
   const example = {
     "type": "MethodDefinition",

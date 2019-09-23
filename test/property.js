@@ -1,3 +1,4 @@
+// const {a,b} = c
 describe('Property', () => {
   const example = {
     "type": "Property",

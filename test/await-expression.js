@@ -1,3 +1,4 @@
+// const run = async () => await foo
 describe('AwaitExpression', () => {
   const example = {
     "type": "AwaitExpression",

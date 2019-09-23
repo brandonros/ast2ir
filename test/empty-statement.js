@@ -1,3 +1,4 @@
+// ;
 describe('EmptyStatement', () => {
   const example = {
     "type": "EmptyStatement",

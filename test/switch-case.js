@@ -1,3 +1,4 @@
+// switch (foo) { case 1: {} }
 describe('SwitchCase', () => {
   const example = {
     "type": "SwitchCase",

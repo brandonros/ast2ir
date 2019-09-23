@@ -1,3 +1,4 @@
+/// switch (foo) {}
 describe('SwitchStatement', () => {
   const example = {
     "type": "SwitchStatement",

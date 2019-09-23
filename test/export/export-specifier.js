@@ -1,3 +1,4 @@
+// export { x, y as z } from '...'
 describe('ExportSpecifier', () => {
   const example = {
     "type": "ExportSpecifier",

@@ -1,3 +1,4 @@
+// const foo = (a = 'lol') => {}
 describe('AssignmentPattern', () => {
   const example = {
     "type": "AssignmentPattern",

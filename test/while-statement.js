@@ -1,3 +1,4 @@
+// while (1) {}
 describe('WhileStatement', () => {
   const example = {
     "type": "WhileStatement",

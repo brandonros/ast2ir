@@ -1,3 +1,4 @@
+// debugger
 describe('DebuggerStatement', () => {
   const example = {
     "type": "DebuggerStatement",

@@ -1,3 +1,4 @@
+// import * as foo from 'foo'
 describe('ImportDeclaration', () => {
   const example = {
     "type": "ImportDeclaration",

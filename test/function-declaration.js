@@ -1,3 +1,4 @@
+// function foo(a,b,c){}
 describe('FunctionDeclaration', () => {
   const example = {
     "type": "FunctionDeclaration",

@@ -1,3 +1,4 @@
+// (class Animal {})
 describe('ClassExpression', () => {
   const example = {
     "type": "ClassExpression",

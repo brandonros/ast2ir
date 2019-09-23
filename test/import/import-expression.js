@@ -1,3 +1,4 @@
+// import('dynamicImport.js')
 describe('ImportExpression', () => {
   const example = {
     type: 'ImportExpression',

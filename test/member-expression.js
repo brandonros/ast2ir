@@ -1,3 +1,4 @@
+// foo.bar
 describe('MemberExpression', () => {
   const example = {
     "type": "MemberExpression",

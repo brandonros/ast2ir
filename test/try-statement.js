@@ -1,3 +1,4 @@
+// try {} catch (err) {}
 describe('TryStatement', () => {
   const example = {
     "type": "TryStatement",

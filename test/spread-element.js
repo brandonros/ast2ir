@@ -1,3 +1,4 @@
+/// var arr = [a, b, ...c]
 describe('SpreadElement', () => {
   const example = {
     "type": "SpreadElement",

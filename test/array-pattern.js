@@ -1,3 +1,4 @@
+// const [a,b] = foo
 describe('ArrayPattern', () => {
   const example = {
     "type": "ArrayPattern",

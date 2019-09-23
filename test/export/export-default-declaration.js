@@ -1,3 +1,4 @@
+// export default f
 describe('ExportDefaultDeclaration', () => {
   const example = {
     "type": "ExportDefaultDeclaration",

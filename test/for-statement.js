@@ -1,3 +1,4 @@
+// for (;;) {}
 describe('ForStatement', () => {
   const example = {
     "type": "ForStatement",

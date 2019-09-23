@@ -1,3 +1,4 @@
+// for (const foo in bar) {}
 describe('ForInStatement', () => {
   const example = {
     "type": "ForInStatement",

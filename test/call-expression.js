@@ -1,3 +1,4 @@
+// foo(1)
 describe('CallExpression', () => {
   const example = {
     "type": "CallExpression",

@@ -1,3 +1,4 @@
+// with (foo) {}
 describe('WithStatement', () => { // note: disabled in strict mode
   const example = {
     "type": "WithStatement",

@@ -1,3 +1,4 @@
+// (4, 8)
 describe('SequenceExpression', () => {
   const example = {
     "type": "SequenceExpression",

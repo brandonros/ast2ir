@@ -1,3 +1,4 @@
+// `foo`
 describe('TemplateElement', () => {
   const example = {
     "type": "TemplateElement",

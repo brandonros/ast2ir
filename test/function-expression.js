@@ -1,3 +1,4 @@
+// const foo = function (a,b,c){}
 describe('FunctionExpression', () => {
   const example = {
     "type": "FunctionExpression",

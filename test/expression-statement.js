@@ -1,3 +1,4 @@
+// foo
 describe('ExpressionStatement', () => {
   const example = {
     "type": "ExpressionStatement",

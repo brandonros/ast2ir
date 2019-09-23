@@ -1,3 +1,4 @@
+// const foo = 1
 describe('VariableDeclaration', () => {
   const example = {
     "type": "VariableDeclaration",

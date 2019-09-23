@@ -1,3 +1,4 @@
+// if (a) {} else if (b) {} else {}
 describe('IfStatement', () => {
   const example = {
     "type": "IfStatement",

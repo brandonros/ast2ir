@@ -1,4 +1,5 @@
-describe('ConditionalStatement', () => {
+// a ? b : c
+describe('ConditionalExpression', () => {
   const example = {
     "type": "ConditionalExpression",
     "start": 0,

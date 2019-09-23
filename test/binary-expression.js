@@ -1,3 +1,4 @@
+// 1 ^ 0
 describe('BinaryExpression', () => {
   const example = {
     "type": "BinaryExpression",

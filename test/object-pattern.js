@@ -1,3 +1,4 @@
+// const { a, b, c } = foo
 describe('ObjectPattern', () => {
   const example = {
     "type": "ObjectPattern",

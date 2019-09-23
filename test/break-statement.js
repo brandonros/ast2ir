@@ -1,3 +1,4 @@
+// for (;;) { break }
 describe('BreakStatement', () => {
   const example = {
     "type": "BreakStatement",

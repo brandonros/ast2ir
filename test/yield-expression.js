@@ -1,3 +1,4 @@
+// function *a() { yield 1 }
 describe('YieldExpression', () => {
   const example = {
     "type": "YieldExpression",

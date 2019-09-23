@@ -1,3 +1,4 @@
+// even:foo;bar;
 describe('LabeledStatement', () => {
   const example = {
     "type": "LabeledStatement",

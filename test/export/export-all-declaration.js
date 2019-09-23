@@ -1,3 +1,4 @@
+// export * from 'foo'
 describe('ExportAllDeclaration', () => {
   const example = {
     "type": "ExportAllDeclaration",

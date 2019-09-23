@@ -1,4 +1,5 @@
-describe('ImportDefaultSpecificer', () => {
+// import foo from 'foo'
+describe('ImportDefaultSpecifier', () => {
   const example = {
     "type": "ImportDefaultSpecifier",
     "start": 7,

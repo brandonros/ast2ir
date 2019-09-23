@@ -1,3 +1,4 @@
+// const obj = {foo: 'bar'}
 describe('ObjectExpression', () => {
   const example = {
     "type": "ObjectExpression",
