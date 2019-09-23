@@ -1,5 +1,5 @@
 // for (;;) { continue }
-descrine('ContinueStatement', () => {
+describe('ContinueStatement', () => {
   const example = {
     "type": "ContinueStatement",
     "start": 53,

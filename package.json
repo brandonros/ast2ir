@@ -1,0 +1,28 @@
+{
+  "name": "ast2ir",
+  "version": "1.0.0",
+  "description": "JavaScript abstract syntax tree to intermediate representation converter",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonros/ast2ir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonros/ast2ir/issues"
+  },
+  "homepage": "https://github.com/brandonros/ast2ir#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "acorn": "^7.0.0"
+  }
+}

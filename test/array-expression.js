@@ -1,24 +1,39 @@
-// [1,2]
+const { Parser } = require('acorn')
+const assert = require('assert')
+const ast2ir = require('../index')
+
 describe('ArrayExpression', () => {
-  const example = {
+  const source = `[1,2]`
+  const expectedAst = {
     "type": "ArrayExpression",
-    "start": 44,
-    "end": 74,
+    "start": 0,
+    "end": 5,
     "elements": [
       {
         "type": "Literal",
-        "start": 46,
-        "end": 58,
-        "value": "some_val_1",
-        "raw": "'some_val_1'"
+        "start": 1,
+        "end": 2,
+        "value": 1,
+        "raw": "1"
       },
       {
         "type": "Literal",
-        "start": 60,
-        "end": 72,
-        "value": "some_val_2",
-        "raw": "'some_val_2'"
+        "start": 3,
+        "end": 4,
+        "value": 2,
+        "raw": "2"
       }
     ]
   }
+  const expectedIr = `TODO`
+
+  it('should compile source to AST', () => {
+    const ast = Parser.parse(source)
+    assert(JSON.stringify(ast.body[0].expression) === JSON.stringify(expectedAst))
+  })
+
+  it('should compile AST to IR', () => {
+    const ir = ast2ir(expectedAst)
+    assert(ir === expectedIr)
+  })
 })
