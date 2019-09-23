@@ -1,3 +1,4 @@
+// throw new Error('foo')
 describe('ThrowStatement', () => {
   const example = {
     "type": "ThrowStatement",

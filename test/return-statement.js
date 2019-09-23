@@ -1,4 +1,4 @@
-// return 1
+// const foo = function () { return 1 }
 describe('ReturnStatement', () => {
   const example = {
     "type": "ReturnStatement",
