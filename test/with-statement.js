@@ -1,5 +1,5 @@
-// with (foo) {}
-describe('WithStatement', () => { // note: disabled in strict mode
+// with (foo) {} - note: disabled in strict mode
+describe('WithStatement', () => {
   const example = {
     "type": "WithStatement",
     "start": 0,

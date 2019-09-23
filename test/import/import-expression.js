@@ -1,4 +1,4 @@
-// import('dynamicImport.js')
+// import('dynamicImport.js') - note: fails on https://astexplorer.net/
 describe('ImportExpression', () => {
   const example = {
     type: 'ImportExpression',

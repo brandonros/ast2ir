@@ -1,4 +1,4 @@
-// try { } catch (err) {}
+// try {} catch (err) {}
 describe('CatchClause', () => {
   const example = {
     "type": "CatchClause",
