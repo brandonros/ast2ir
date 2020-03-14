@@ -23,6 +23,6 @@
     "mocha": "^6.2.0"
   },
   "dependencies": {
-    "acorn": "^7.0.0"
+    "acorn": "^7.1.1"
   }
 }
